@@ -61,6 +61,11 @@ you are submitting for this final project must be a clearly defined addition to
 the original project. In such a case, you will be graded only on the portion
 submitted for this course, not on the entire project.
 
+### Note
+
+If you'd like to work in a group, but are having a hard time finding other students, there
+is a [discussion thread](https://canvas.upenn.edu/courses/1533812/discussion_topics/6292804) on Canvas to help facilitate group formation.
+
 ## Grading
 
 The final project is worth 40% of the final grade and will be graded on four criteria:
@@ -83,7 +88,6 @@ Note: We'll cover both of these examples in much more detail in the new couple o
 **Option 1:** Use the [Panel](https://panel.holoviz.org/) python library
 
 - Example gallery: https://panel.pyviz.org/gallery/index.html
-- [Demo on Philadelphia shootings](https://mybinder.org/v2/gh/MUSA-620-Fall-2019/philadelphia-shootings-app/master?urlpath=/panel/app1): we'll cover this example in class
 - Other demos from a Panel developer: https://jsignell.github.io/
 
 **Option 2:** Use the Github Pages to display charts in a more blog-oriented format. Here are a couple of demo examples from last semester:
