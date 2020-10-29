@@ -92,8 +92,8 @@ Note: We'll cover both of these examples in much more detail in the new couple o
 
 **Option 2:** Use the Github Pages to display charts in a more blog-oriented format. Here are a couple of demo examples from last semester:
 
-https://musa-620-fall-2019.github.io/github-pages-starter/folium-charts/
-https://musa-620-fall-2019.github.io/github-pages-starter/measles-charts/
+- https://musa-620-fall-2019.github.io/github-pages-starter/folium-charts/
+- https://musa-620-fall-2019.github.io/github-pages-starter/measles-charts/
 
 ### Examples from Past Semesters
 
